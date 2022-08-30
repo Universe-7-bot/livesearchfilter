@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/livesearchfilter/static/css/main.24a18b34.css",
+    "main.js": "/livesearchfilter/static/js/main.b778d173.js",
+    "index.html": "/livesearchfilter/index.html",
+    "main.24a18b34.css.map": "/livesearchfilter/static/css/main.24a18b34.css.map",
+    "main.b778d173.js.map": "/livesearchfilter/static/js/main.b778d173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a18b34.css",
+    "static/js/main.b778d173.js"
+  ]
+}
